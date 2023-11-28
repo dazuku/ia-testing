@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Daniel Daza",
+    "team": "Transfix"
+  },
+  {
+    "id": 2,
+    "name": "Daniel Diaz",
+    "team": "Terminal"
+  },
+  {
+    "id": 3,
+    "name": "Camilo Daza",
+    "team": "Terminal"
+  },
+  {
+    "id": 4,
+    "name": "Daniel Diaz",
+    "team": "Transfix"
+  }
+]

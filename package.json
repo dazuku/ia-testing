@@ -1,0 +1,25 @@
+{
+  "name": "ia-demo",
+  "version": "0.0.1",
+  "description": "IA Demo project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bot": "bun bot/index.ts",
+    "api": "bun server/index.ts"
+  },
+  "keywords": [
+    "ia"
+  ],
+  "author": "Daniel Daza <danieldaza91@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "langchain": "^0.0.198"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21"
+  }
+}
